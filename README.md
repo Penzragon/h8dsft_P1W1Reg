@@ -10,11 +10,11 @@ By [Rifky Aliffa](https://github.com/Penzragon)
 
 ## Dataset
 
-Dataset yang digunakan pada project ini adalah dataset yang berisi tentang data perjalanan penumpang menggunakan Uber dan Lyft. Dataset ini berisi 693071 baris dengan 57 kolom.
+Dataset yang digunakan pada project ini adalah dataset yang berisi tentang data perjalanan penumpang menggunakan **Uber** dan **Lyft** yang sudah termasuk informasi cuaca pada jam tersebut. Dataset ini berisi 693071 baris dengan 57 kolom yang di antaranya adalah id, timestamp, hour, day, month, datetime, timezone, source, destination, cab_type, product_id, name, price, distance, dan masih banyak lagi. Dataset dapat dilihat di [Kaggle](https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma).
 
 ## Objectives
 
-Graded Challenge 1 ini dibuat guna mengevaluasi konsep Regression sebagai berikut:
+**Graded Challenge 1** ini dibuat guna mengevaluasi konsep Regression sebagai berikut:
 
 - Mampu memahami konsep regression dengan Linear Regession
 - Mampu mempersiapkan data untuk digunakan dalam model Linear Regression
